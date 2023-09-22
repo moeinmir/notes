@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243015668806",
+    "project_id": "flutterbackendapplication",
+    "storage_bucket": "flutterbackendapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243015668806:android:9cbf3e02233de2300f6647",
+        "android_client_info": {
+          "package_name": "com.example.learnig_dart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKABQPZ1drNuauexkj3nYOddkkTDhmTSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
